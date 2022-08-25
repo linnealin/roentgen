@@ -1,0 +1,17 @@
+{
+  "name": "roentgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "author": "Linnea Lin",
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.10",
+    "vue": "^3.2.37"
+  }
+}
