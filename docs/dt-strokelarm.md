@@ -8,9 +8,6 @@ Se avsnitt 'DT hjärna' respektive 'DT angiografi' för mer information.
 :::
 
 
-
-| Frågeställning        | Tillstånd           | Kommentar  |
-| ------------- |:-------------:| -----:|
-| Blödning?     | right-aligned  | $1600 |
-| Infarkt? / Demarkerad infarkt?      | centered      |   $12 |
-| Skelettskada? | are neat      |    $1 |
+::: details
+This is a details block.
+:::

@@ -1,5 +1,7 @@
-# Om
+# Om sidan
 
-Dessa underoekningar aer viktische
+Denna hemsida skapades som en del i ett förbättringsarbete för AT-läkare på Södersjukhuset i Stockholm. Här återfinns sjukhusets vanligaste röntgenbeställningar med respektive frågeställningar. 
 
-skriv i realtid
+
+/Linnea Lin, 
+<br>AT-läkare, <span style="color: red">aug</span> 2022, Stockholm

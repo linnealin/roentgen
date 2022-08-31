@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-    title: 'Röntgenhandbok',
+    title: 'Radiologi för AT-läkare',
     description: 'Just playing around.',
     themeConfig: {
         nav: [
@@ -13,15 +13,22 @@ export default defineConfig({
               text: 'Huvud',
               items: [
                 // This shows `/guide/index.md` page.
-                { text: 'DT-strokelarm', link: '/dt-strokelarm' },
-                { text: 'DT-hjärna', link: '/dt-hjarna' }
+                { text: '1. DT strokelarm', link: '/dt-strokelarm' },
+                { text: '2. DT hjärna', link: '/dt-hjarna' },
+                { text: 'DT angiografi TIA-utredning', link: '/dt-angiografi-tia' },
+                { text: 'DT angiografi halskärl', link: '/dt-angiografi-halskarl' },
+                { text: 'DT hjärnangiografi', link: '/dt-hjarnangiografi' },
+                { text: 'DT venografi sinustrombos', link: '/dt-venografi-sinustrombos' },
+                { text: 'DT ansiktsskelett', link: '/dt-ansiktsskelett' },
+                { text: 'DT hjärna med kontrast', link: '/dt-hjarna-kontrast' },
               ]
             }
           ],
         footer: {
-            message: 'Released under the MIT License.',
-            copyright: 'Copyright © 2022-present Linnea Lin'
+            message: 'hallå',
+            copyright: 'Copyright © 2022 Linnea Lin'
         },
-        search: true
-      }
+      },
   })
+
+
