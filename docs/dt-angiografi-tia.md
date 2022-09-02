@@ -1,2 +1,0 @@
-#DT angiografi TIA-utredning
-

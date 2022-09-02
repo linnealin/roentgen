@@ -10,9 +10,9 @@ editLink: true
 ::: details Läs mer
 1. [DT strokelarm](dt-strokelarm)
 2. [DT hjärna](dt-hjarna)
-3. [DT angiografi TIA-utredning](dt-angiografi-tia)
-4. [DT angiografi halskärl](dt-angiografi-halskarl)
-5. [DT hjärnangiografi](dt-hjarnangiografi)
+3. [DT angiografi TIA-utredning](dt-angiografi#dt-angiografi-tia-utredning)
+4. [DT angiografi halskärl](dt-angiografi#dt-angiografi-halskärl)
+5. [DT hjärnangiografi](dt-angiografi#dt-hjärnangiografi)
 6. [DT venografi sinustrombos](dt-venografi-sinustrombos)
 7. [DT ansiktsskelett](dt-ansiktsskelett)
 8. [DT hjärna med kontrast](dt-hjarna-kontrast)

@@ -13,11 +13,9 @@ export default defineConfig({
               text: 'Huvud',
               items: [
                 // This shows `/guide/index.md` page.
-                { text: '1. DT strokelarm', link: '/dt-strokelarm' },
-                { text: '2. DT hjärna', link: '/dt-hjarna' },
-                { text: 'DT angiografi TIA-utredning', link: '/dt-angiografi-tia' },
-                { text: 'DT angiografi halskärl', link: '/dt-angiografi-halskarl' },
-                { text: 'DT hjärnangiografi', link: '/dt-hjarnangiografi' },
+                { text: 'DT strokelarm', link: '/dt-strokelarm' },
+                { text: 'DT hjärna', link: '/dt-hjarna' },
+                { text: 'DT angiografi', link: '/dt-angiografi#dt-angiografi-tia-utredning' },
                 { text: 'DT venografi sinustrombos', link: '/dt-venografi-sinustrombos' },
                 { text: 'DT ansiktsskelett', link: '/dt-ansiktsskelett' },
                 { text: 'DT hjärna med kontrast', link: '/dt-hjarna-kontrast' },
