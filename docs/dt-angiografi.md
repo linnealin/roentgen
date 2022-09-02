@@ -1,5 +1,5 @@
 # DT angiografi
-Cerebrovaskulära angiografier görs med kontrast i artärfas, till skillnad från DT hjärna med kontrast som görs med kontrast i parenkymfas. Det finns olika protokoll på Södersjukhuset: <i>DT angiografi TIA-utredning, DT angiografi halskärl och DT hjärnangiografi</i>.
+Cerebrovaskulära angiografier görs med kontrast i artärfas, till skillnad från DT hjärna med kontrast som görs med kontrast i parenkymfas. Det finns olika protokoll på Södersjukhuset: [DT angiografi TIA-utredning](#dt-angiografi-tia-utredning), [DT angiografi halskärl](#dt-angiografi-halskarl) och [DT hjärnangiografi](#dt-hjarnangiografi).
 
 ::: info Undersökta blodkärl:
 - Arteria carotis communis (vid DT angiografi TIA-utredning och DT strokelarm)
@@ -25,9 +25,11 @@ Inga plack, stenoser eller ocklusioner. Ingen dissektion eller aneurysm. Öppets
 - Omfattar området från arcus aorta upp till vertex.
 - Indikation strokelarm och övrig stroke-/TIA-utredning.
 
+
 ## DT angiografi halskärl
 - Omfattar C6-nivå till vertex.
 - Indikation patientålder <45 år och dissektionsutredning.
+
 
 ## DT hjärnangiografi
 - Omfattar C2-nivå till vertex, minst kontrastmängd.

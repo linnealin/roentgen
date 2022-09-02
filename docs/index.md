@@ -1,5 +1,5 @@
 ---
-title: Docs with VitePress
+title: Startsida
 editLink: true
 ---
 
@@ -20,11 +20,11 @@ editLink: true
 
 ## Thorax
 ::: details Läs mer
-9. [Lungröntgen](lungrontgen) (cor-pulm / pulm bedside) 
+9. [Lungröntgen]() (cor-pulm / pulm bedside) 
 10. [DT thorax utan kontrast]() 
 11. [DT thorax med kontrast]() 
 12. [DT lungartärer]() 
-13. [Lungscintigrafi]() (ventlations- och perfusionsscintigrafi)
+13. [Lungscintigrafi]() (ventilations- och perfusionsscintigrafi)
 14. [DT hjärta kranskärl med kontrast]() (DT kranskärl)
 15. [DT aorta (flash) med kontrast]()
 :::

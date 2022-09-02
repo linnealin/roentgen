@@ -25,7 +25,7 @@ Ingen blödning, avgränsbar infarkt, fraktur i neurokraniet eller expansivitet.
 <br>
 
 | Frågeställning       | Tillstånd           | Kommentar  |
-| ------------- |-------------| -------------
+| ------------- |-------------| ------------- |
 | <b>Blödning?</b>   | <u>Intrakraniell blödning</u><br>Hemorragisk stroke eller traumatisk blödning:<br><br>- Epiduralblödning<br>- Subduralhematom<br>- Subaraknoidalblödning<br>- Intracerebral blödning<br>- Kontusionsblödning | <u>Subaraknoidalblödning:</u><br>- DT-hjärna om symtomdebut <6h, annars osäker metod.<br>- DT-angiografi vid spontan subaraknoidalblödning. Ingen angio vid traumatisk subaraknoidalblödning.<br>- LP + spektrofotometri vid symtomdebut >12h sedan.
 | <b>Infarkt? /<br>Demarkerad infarkt?</b>     | <u>Ischemisk stroke</u><br>Färsk eller genomgången infarkt:<br><br>-Cerebral infarkt<br>-Mediainfarkt<br>-PICA-infarkt etc.      | <u>Fynd:</u><br>- Demarkerad infarkt: synlig färsk avgränsbar infarkt<br>- Lågattenuerat / hypodens område: infarktmisstanke<br>- Dense vessel sign: hyperdens blodkärl som vid färsk infarkt<br>- Lakunär infarkt: infarkt orsakad av småkärlssjuka<br>- Substansdefekt: t.ex. genomgången infarkt/blödning |
 | <b>Skelettskada?</b> | - Fraktur i neurokranium<br>- Skallbasfraktur<br>- Näsfraktur<br>- Orbitafraktur<br>- Maxillarfraktur |
