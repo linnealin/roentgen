@@ -1,4 +1,4 @@
-# Thorax
+# Lungundersökningar
 Det finns många olika sätt att avbilda thorax. Sträva efter enklast möjliga undersökning med lägsta stråldos eller minsta kontrastmängd för att besvara frågeställningen.
 
 Läs mer om undersökningarna:
@@ -29,10 +29,6 @@ Läs mer om undersökningarna:
 
 
 <style> 
-table th {
-    font-size: 10px;
-}
-
 table {
     font-size: 12px;
 }
@@ -40,6 +36,5 @@ table {
 table td {
     vertical-align: top;
 }
-
 
 </style>

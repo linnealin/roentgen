@@ -1,6 +1,6 @@
 # DT thorax utan kontrast
 
-Denna undersökning ger oftast mer information än lungröntgen, men innebär en högre stråldos för patienten.
+DT thorax utan kontrast ger oftast mer information än lungröntgen, men innebär en högre stråldos för patienten.
 
 ::: warning Indikation
 1. Pneumothorax

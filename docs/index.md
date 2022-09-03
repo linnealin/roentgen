@@ -45,8 +45,8 @@ editLink: true
 23. DT ländrygg
 24. RTG bäcken
 25. RTG protesbäcken
-26. RTG Höft
-27. Ultraljud leder
+26. RTG höft
+27. UL leder
 :::
 
 
@@ -57,16 +57,6 @@ editLink: true
 30. Perkutan nefrostomi
 :::
 
-
-
-### Detta e en underunderrubrik
-
-
-## /
-
-yaaaaay
-
-[Custom link description](dt-hjarna)
 
 > Blockquote yay
 
