@@ -3,11 +3,11 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
     title: 'Radiologi för AT-läkare',
     description: 'Just playing around.',
+    lastUpdated: true,
     themeConfig: {
         nav: [
           { text: 'Om', link: '/about' },
           { text: 'Länkar', link: '/links' },
-          { text: 'Statistik', link: '/statistics' },
         ],
         sidebar: [
             {
