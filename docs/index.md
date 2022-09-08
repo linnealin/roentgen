@@ -101,4 +101,3 @@ editLink: true
 10. DT thorax utan kontrast
 
 ---
-Källa: AT-läkarnas röntgenbeställningar på Södersjukhuset 2021.
