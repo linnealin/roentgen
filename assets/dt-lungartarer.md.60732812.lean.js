@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as r,d as n}from"./app.6898ed50.js";const _=JSON.parse('{"title":"DT lungart\xE4rer","description":"","frontmatter":{},"headers":[],"relativePath":"dt-lungartarer.md","lastUpdated":1662669856000}'),e={name:"dt-lungartarer.md"},i=n("",5),l=[i];function s(o,d,c,u,k,g){return r(),a("div",null,l)}const m=t(e,[["render",s]]);export{_ as __pageData,m as default};
