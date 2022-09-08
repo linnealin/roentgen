@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
     title: 'Radiologi för AT-läkare',
     description: 'Just playing around.',
+    base: '/roentgen/',
     lastUpdated: true,
     themeConfig: {
         nav: [
