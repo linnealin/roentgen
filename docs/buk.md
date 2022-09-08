@@ -9,8 +9,10 @@ Läs mer om undersökningarna:
 5. [Passageröntgen](rtg-passage)
 
 
+<div class="wrapper">
+
 ## Frågeställningar
-| <font size='2'>Frågeställning</font>       |<font size='2'>UL</font>  | <font size='2'>DT</font>  | <font size='2'>DT kontrast</font>  | <font size='2'>DT uro</font>  | <font size='2'>Kommentar</font>  |
+| Frågeställning | UL | DT | DT kontrast | DT uro | Kommentar |
 | ------------- |-------------| ------------- | ------------- | ------------- | ------------- |
 | <b>Ileus?</b> | | x | (x) | | |
 | <b>Fri gas?</b> | | x | (x) |  | Vid misstanke om perforation från GI-kanalen.|
@@ -32,10 +34,30 @@ Läs mer om undersökningarna:
 | <b>Perforation?</b> | | x | x | | Perforerat ulcus eller divertikulit m.m. |
 | <b>Malignitet?</b> | | (x) | x|  |
 
-<font size='2'>x = frågeställningen besvaras bäst med denna undersökningsmetod.<br>(x) = frågeställningen kan bevaras med denna undersökningsmetod, men ej förstahandsval.</font>
+</div>
+
+<footer class="footer">
+x = frågeställningen besvaras bäst med denna undersökningsmetod.<br>(x) = frågeställningen kan bevaras med denna undersökningsmetod, men ej förstahandsval.
+</footer>
+
+
 
 
 <style> 
+.wrapper {
+    display: contents;
+}
+
+.wrapper th {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+footer {
+    font-size: 13px;
+    font-weight: unset;
+}
+
 table {
     font-size: 12px;
 }

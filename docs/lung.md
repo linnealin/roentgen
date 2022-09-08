@@ -10,7 +10,9 @@ Läs mer om undersökningarna:
 
 ## Frågeställningar
 
-| <font size='2'>Frågeställning</font>       |<font size='2'>Rtg</font>  | <font size='2'>DT</font>  | <font size='2'>DT kontrast</font>  | <font size='2'>DT LA</font>  | <font size='2'>Lungscint</font>  | <font size='2'>Kommentar</font>  |
+<div class="wrapper">
+
+| Frågeställning | Rtg | DT | DT kontrast | DT LA | Lungscint | Kommentar |
 | ------------- |-------------| ------------- | ------------- | ------------- | ------------- | ------------- |
 | <b>Infiltrat?</b> |x| x | (x) |  | | Vid infektion med lungfokus. |
 | <b>Pleuravätska?</b> |x| x | (x) |  |  | Fråga om tappningsbar pleuravätska vid misstanke om stor mängd pleuravätska.|
@@ -25,10 +27,21 @@ Läs mer om undersökningarna:
 | <b>Kontroll-rtg?</b> |x| x |  |  |  | Progress/regress av:<br>- Pneumothorax<br>- Hemothorax<br>- Infiltrat<br>- Pleuravätska<br>- Läge på V-sond / CVK / PICC-line / pacemakerelektroder / ETT etc.|
 | <b>Aortadissektion?</b> | |  | (x) | (x) |  |
 
-<font size='2'>x = frågeställningen besvaras bäst med denna undersökningsmetod.<br>(x) = frågeställningen kan bevaras med denna undersökningsmetod, men ej förstahandsval.</font>
+</div>
+
+<footer>x = frågeställningen besvaras bäst med denna undersökningsmetod.<br>(x) = frågeställningen kan bevaras med denna undersökningsmetod, men ej förstahandsval. </footer>
 
 
 <style> 
+.wrapper {
+    display: contents;
+}
+
+.wrapper th {
+    font-size: 13px;
+    font-weight: 600;
+}
+
 table {
     font-size: 12px;
 }
