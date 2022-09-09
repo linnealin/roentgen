@@ -24,6 +24,8 @@ Ingen blödning, avgränsbar infarkt, fraktur i neurokraniet eller expansivitet.
 :::
 <br>
 
+<div class="hjarna"> 
+
 | Frågeställning       | Tillstånd           | Kommentar  |
 | ------------- |-------------| ------------- |
 | <b>Blödning?</b>   | <u>Intrakraniell blödning</u><br>Hemorragisk stroke eller traumatisk blödning:<br><br>- Epiduralblödning<br>- Subduralhematom<br>- Subaraknoidalblödning<br>- Intracerebral blödning<br>- Kontusionsblödning | <u>Subaraknoidalblödning:</u><br>- DT-hjärna om symtomdebut <6h, annars osäker metod.<br>- DT-angiografi vid spontan subaraknoidalblödning. Ingen angio vid traumatisk subaraknoidalblödning.<br>- LP + spektrofotometri vid symtomdebut >12h sedan.
@@ -34,7 +36,7 @@ Ingen blödning, avgränsbar infarkt, fraktur i neurokraniet eller expansivitet.
 | <b>Degenerativa förändringar?</b> | Demenssjukdomar | <u>Fynd:</u><br>- Atrofi<br>- Degenerativa vitsubstansförändringar<br>- Vida ventriklar<br><br>Vitsubstansförändringar av olika genes:<br>- Mikroangiopatiska<br>- Degenerativa<br>- Ischemiska |
 | <b>Förlopps-DT?</b> | <u>Progress/regress av:</u><br>- Blödning<br>- Infarkt | Vid blödning kontakta neurokirurgen för diskussion kring handläggning och när kontroll-DT ska göras. Håll patienten fastande tills dess. |
 
-
+</div>
 
 <style> 
 table {
@@ -44,6 +46,24 @@ table {
 table td {
     vertical-align: top;
 }
+
+
+/*
+.hjarna tbody { display: block; }
+
+.hjarna tbody {
+  max-height: 500px;
+  overflow: auto;
+}
+
+
+.hjarna th {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background-color: #9d4e4e;
+} 
+*/
 
 
 </style>
