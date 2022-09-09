@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as r,d as t}from"./app.05c3c6c6.js";const f=JSON.parse('{"title":"Mer radiologi","description":"","frontmatter":{},"headers":[],"relativePath":"links.md","lastUpdated":1662734260000}'),o={name:"links.md"},i=t("",2),n=[i];function l(s,d,_,c,h,p){return r(),e("div",null,n)}const m=a(o,[["render",l]]);export{f as __pageData,m as default};
