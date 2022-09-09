@@ -34,7 +34,7 @@ export default defineConfig({
                 { text: 'DT lungartärer', link: '/dt-lungartarer' },
                 { text: 'Lungscintigrafi', link: '/lungscintigrafi' },
                 { text: 'DT kranskärl', link: '/dt-kranskarl' },
-                { text: 'DT aorta', link: 'dt-aorta'},
+                { text: 'DT aorta', link: '/dt-aorta' },
               ],
             },
             {
