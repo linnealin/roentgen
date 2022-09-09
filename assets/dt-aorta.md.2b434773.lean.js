@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as r,d as e}from"./app.6898ed50.js";const _=JSON.parse('{"title":"DT aorta (flash) med kontrast","description":"","frontmatter":{},"headers":[],"relativePath":"dt-aorta.md","lastUpdated":1662669856000}'),n={name:"dt-aorta.md"},s=e("",4),o=[s];function i(d,l,k,c,u,m){return r(),a("div",null,o)}const g=t(n,[["render",i]]);export{_ as __pageData,g as default};
