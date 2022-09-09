@@ -1,1 +1,0 @@
-import{_ as l,c as a,o as e,d as t}from"./app.6898ed50.js";const v=JSON.parse('{"title":"Ultraljud buk","description":"","frontmatter":{},"headers":[],"relativePath":"ul-buk.md","lastUpdated":1662727013000}'),i={name:"ul-buk.md"},n=t("",6),r=[n];function s(d,o,c,u,k,p){return e(),a("div",null,r)}const g=l(i,[["render",s]]);export{v as __pageData,g as default};
