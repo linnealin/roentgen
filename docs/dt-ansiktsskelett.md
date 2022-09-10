@@ -10,4 +10,4 @@ DT ansiktsskelett avbildar hela ansiktsskelettet till skillnad från DT hjärna 
 
 | Frågeställning       | Tillstånd           |
 | ------------- |-------------| 
-| <b>Skelettskada?</b> | - Näsfraktur<br> -Orbitafraktur - t.ex. blow-out fraktur<br> -Maxillarfraktur<br> -Mandibulafraktur<br> -Os zygomaticumfraktur<br><br> -Le Fort fraktur<br> -NOE fraktur<br> -Tripod fraktur|
+| <b>Skelettskada?</b> | - Näsfraktur<br> - Orbitafraktur (t.ex. blow-out fraktur)<br> - Maxillarfraktur<br> - Mandibulafraktur<br> - Os zygomaticumfraktur<br><br> - Le Fort fraktur<br> - NOE fraktur<br> - Tripod fraktur|
