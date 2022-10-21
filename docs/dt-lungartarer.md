@@ -1,14 +1,11 @@
-# DT lungartärer
+# DT thorax med kontrast i lungartärfas
 
-Till skillnad från DT thorax med kontrast sker denna undersökning genom kontrast i artärfas och hela lungparenkymen avbildas heller inte. Fokus ligger på att avbilda lungornas kärlträd. 
+Till skillnad från [DT thorax med kontrast i venfas](dt-thorax-kontrast.md) sker denna undersökning genom kontrast i lungartärfas. Fokus ligger på att avbilda lungornas kärlträd vid frågeställningen lungemboli. För unga eller gravida patienter förkortas undersökningsfönstret kraniokaudalt för att spara stråldos.
 
 ::: warning Indikation
 Lungemboli
 :::
 
-::: tip Normalfynd
-Ingen lungemboli. Inga infiltrat. Ingen pleuravätska.
-:::
 
 ::: danger OBS!
 <u>Intravenös kontrastundersökning</u>:

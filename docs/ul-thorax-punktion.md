@@ -3,7 +3,7 @@ Detta är en undersökning som oftast innebär tappning av pleuravätska vid t.e
 
 ::: warning Indikation
 1. <b>Pleuravätska</b> - Tappning av uttalad mängd pleuravätska. Analys av pleuravätska med oklar genes.
-2. <b>Empyem</b> 
+2. <b>Empyem</b> - Punktion av empyem. Kom ihåg att lägga in odlingsremiss i journalsystemet. 
 3. <b>Malignitetsutredning</b> - Biopsitagning av malignitetsförändringar i thorax och buk. Skicka för PAD.
 :::
 

@@ -1,18 +1,21 @@
 # DT buk med kontrast
-DT buk med intravenös kontrast beställs vid misstanke om inflammatoriska tillstånd i buken eller vid malignitetsutredning.
+DT buk med intravenös kontrast beställs vid misstanke om inflammatoriska tillstånd i buken, malignitetsutredning eller vid blödning. För att påvisa en pågående blödning genomförs undersökningen med kontrast i flera faser.
+
 
 ::: warning Indikation
-1. Appendicit (förstahandsval för äldre/multisjuka med andra möjliga diffdiagnoser eller ) 
+Exempel:
+1. Appendicit (förstahandsval för äldre/multisjuka med andra möjliga differentialdiagnoser) 
 2. Divertikulit
 3. Pankreatit
 4. Abscess
 5. Malignitetsutredning
-6. Perforation (t.ex. perforerat ulcus / divertikulit)
+6. Perforation (t.ex. perforerat ulcus / perforerad divertikulit)
+7. Blödning
 :::
 
 
 ::: tip Normalfynd
-Ingen fri gas, fri vätska eller ileus. Bukens parenkymatösa organ och lungbaser med ordinärt utseende.    
+Ex. Ingen fri gas, fri vätska eller ileus. Bukens parenkymatösa organ och lungbaser med ordinärt utseende.    
 :::
 
 

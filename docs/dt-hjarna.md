@@ -1,26 +1,24 @@
 # DT hjärna
-DT hjärna är en nativ undersökning utan kontrast.  
+DT hjärna är en nativ undersökning utan kontrast. Vanliga frågeställningar är blödning, infarkt, expansivitet, skelettskada och hydrocefalus.  
 
 ::: tip Normalfynd
-Ingen blödning, avgränsbar infarkt, fraktur i neurokraniet eller expansivitet. Normalvida likvorrum. Opåverkade basala cisterner. Luftförande sinus och mastoidceller.
+Ex. Ingen blödning, avgränsbar infarkt, fraktur i neurokraniet eller expansivitet. Normalvida likvorrum. Opåverkade basala cisterner. Luftförande sinus och mastoidceller.
 :::
 
 ::: warning Indikation
+Exempel:
 - Skalltrauma (kombinera även med DT halsrygg)
 - Stroke
-- Krampanfall 
 - Oklar medvetandepåverkan. 
 :::
 
 ## Frågeställningar
 ::: info Exempel
 1. Blödning?
-2. Infarkt? / Demarkerad infarkt?
+2. Infarkt?
 3. Skelettskada?
 4. Expansivitet?
 5. Hydrocefalus?
-6. Degenerativa förändringar?
-7. Förlopps-DT?
 :::
 <br>
 
@@ -28,12 +26,12 @@ Ingen blödning, avgränsbar infarkt, fraktur i neurokraniet eller expansivitet.
 
 | Frågeställning       | Tillstånd           | Kommentar  |
 | ------------- |-------------| ------------- |
-| <b>Blödning?</b>   | <u>Intrakraniell blödning</u><br>Hemorragisk stroke eller traumatisk blödning:<br><br>- Epiduralblödning<br>- Subduralhematom<br>- Subaraknoidalblödning<br>- Intracerebral blödning<br>- Kontusionsblödning | <u>Subaraknoidalblödning:</u><br>- DT-hjärna om symtomdebut <6h, annars osäker metod.<br>- DT-angiografi vid spontan subaraknoidalblödning. Ingen angio vid traumatisk subaraknoidalblödning.<br>- LP + spektrofotometri vid symtomdebut >12h sedan.
-| <b>Infarkt? /<br>Demarkerad infarkt?</b>     | <u>Ischemisk stroke</u><br>Färsk eller genomgången infarkt:<br><br>-Cerebral infarkt<br>-Mediainfarkt<br>-PICA-infarkt etc.      | <u>Fynd:</u><br>- Demarkerad infarkt: synlig färsk avgränsbar infarkt<br>- Lågattenuerat / hypodens område: infarktmisstanke<br>- Dense vessel sign: hyperdens blodkärl som vid färsk infarkt<br>- Lakunär infarkt: infarkt orsakad av småkärlssjuka<br>- Substansdefekt: t.ex. genomgången infarkt/blödning |
-| <b>Skelettskada?</b> | - Fraktur i neurokranium<br>- Skallbasfraktur<br>- Näsfraktur<br>- Orbitafraktur<br>- Maxillarfraktur |
+| <b>Blödning?</b>   | <u>Intrakraniell blödning</u><br>1. Hemorragisk stroke<br>2. Traumatisk blödning| <u>Subaraknoidalblödning:</u><br>- DT-hjärna om symtomdebut <6h, annars osäker metod.<br>- DT-angiografi vid spontan subaraknoidalblödning. Ingen angio vid tydligt traumatisk subaraknoidalblödning.<br>- LP + spektrofotometri vid symtomdebut >12h sedan.
+| <b>Infarkt? /<br>Demarkerad infarkt?</b>     | <u>Ischemisk stroke</u><br>1. Färsk infarkt<br>2. Genomgången infarkt| <u>Fynd:</u><br>- Demarkerad infarkt: Synlig färsk avgränsbar infarkt som tillkommer vid uppföljande DT hos patient med strokesymptom med initialt normal DT.<br>- Lågattenuarande kortex = Infarktsmisstanke.<br>- Dense vessel sign = Hyperdens blodkärl som vid färsk ocklusion (tromb eller emboli).<br>- Lakunär infarkt = Liten (<15 mm) infarkt som inte engagerar kortex. Ofta pga mikroangiopati.<br>- Substansdefekt = Efter t.ex. genomgången infarkt, blödning eller tidigare operation. |
+| <b>Skelettskada?</b> | - Fraktur i neurokranium<br>- Skallbasfraktur<br>- Näsfraktur<br>- Orbitafraktur<br>- Maxillarfraktur | OBS! Mandibeln ingår inte i undersökningen. |
 | <b>Expansivitet?</b> | - Tumör (malign / benign)<br>- Hjärnabscess | För närmare diagnostik krävs oftast DT hjärna med kontrast.<br><br><u>Fynd:</u><br>- Perifokalt ödem<br>- Kompression av ventriklar: medellinjeförskjutning<br>- Masseffekt: trycker på omgivande strukturer<br>- Herniering: inklämning av strukturer|
-| <b>Hydrocefalus?</b> |  | <u>Fynd:</u> Vida ventriklar och påverkade likvorrum. |
-| <b>Degenerativa förändringar?</b> | Demenssjukdomar | <u>Fynd:</u><br>- Atrofi<br>- Degenerativa vitsubstansförändringar<br>- Vida ventriklar<br><br>Vitsubstansförändringar av olika genes:<br>- Mikroangiopatiska<br>- Degenerativa<br>- Ischemiska |
+| <b>Hydrocefalus?</b> |  | <u>Fynd:</u> Kombination av vida ventriklar och komprimerade fåror. |
+| <b>Degenerativa förändringar?</b> | Exempel:<br>- Demenssjukdomar<br>- Mikroangiopati<br>- Flertalet systemiska sjukdomar | <u>Fynd:</u><br>- Atrofi<br>- Degenerativa vitsubstansförändringar<br>- Vida ventriklar<br> |
 | <b>Förlopps-DT?</b> | <u>Progress/regress av:</u><br>- Blödning<br>- Infarkt | Vid blödning kontakta neurokirurgen för diskussion kring handläggning och när kontroll-DT ska göras. Håll patienten fastande tills dess. |
 
 </div>

@@ -1,39 +1,34 @@
 # DT angiografi
-Cerebrovaskulära angiografier görs med kontrast i artärfas, till skillnad från DT hjärna med kontrast som görs med kontrast i parenkymfas. Det finns olika protokoll på Södersjukhuset: [DT angiografi TIA-utredning](#dt-angiografi-tia-utredning), [DT angiografi halskärl](#dt-angiografi-halskarl) och [DT hjärnangiografi](#dt-hjarnangiografi).
-
-::: info Undersökta blodkärl:
-- Arteria carotis communis (vid DT angiografi TIA-utredning och DT strokelarm)
-- Arteria carotis internae
-- Arteria vertebralis
-- Arteria basilaris
-- Intracerebrala artärer och proximala avgångar
-:::
+Cerebrovaskulära angiografier görs med kontrast i artärfas, till skillnad från [DT hjärna med kontrast](dt-hjarna-kontrast.md) som görs med kontrast i parenkymfas. Det finns olika protokoll på Södersjukhuset: [DT angiografi TIA-utredning](#dt-angiografi-tia-utredning), [DT angiografi halskärl](#dt-angiografi-halskarl) och [DT hjärnangiografi](#dt-hjarnangiografi).
 
 ::: warning Indikation
+Exempel:
 - Ischemisk stroke
-- TIA (utredning av karotisstenos)
-- Subaraknoidalblödning 
+- TIA (utredning av stenos i artärer)
 - Hjärnaneurysm
+- Kärlmissbildning
 :::
 
 ::: tip Normalfynd
-Inga plack, stenoser eller ocklusioner. Ingen dissektion eller aneurysm. Öppetstående blodkärl.
+Ex. Inga plack, stenoser eller ocklusioner. Ingen dissektion eller aneurysm. Öppetstående blodkärl.
 :::
 
 
 ## DT angiografi TIA-utredning
 - Omfattar området från arcus aorta upp till vertex.
-- Indikation strokelarm och övrig stroke-/TIA-utredning.
+- Indikation stroke- och TIA-utredning i lugnt skede.
+- Samma undersökning ingår i [DT strokelarm](dt-strokelarm.md), men skillnaden är undersökningens prioritet som är mer akut vid DT strokelarm.
 
 
 ## DT angiografi halskärl
-- Omfattar C6-nivå till vertex.
-- Indikation patientålder <45 år och dissektionsutredning.
+- Omfattar C6-nivå upp till vertex.
+- Indikation patientålder <45 år och dissektionsutredning, eftersom ateroskleros är mycket ovanligt i denna ålderskategori.
 
 
 ## DT hjärnangiografi
-- Omfattar C2-nivå till vertex, minst kontrastmängd.
-- Indikation aneurysmutredning.
+- Omfattar C2-nivå upp till vertex.
+- Lägst stråldos.
+- Indikation exempelvis aneurysmutredning.
 
 
 ## Frågeställningar
@@ -41,7 +36,6 @@ Inga plack, stenoser eller ocklusioner. Ingen dissektion eller aneurysm. Öppets
 1. Stenos?
 2. Ocklusion?
 3. Plack?
-4. Dissektion?
 5. Aneurysm?
 6. Kärlanomali?
 :::
@@ -50,11 +44,10 @@ Inga plack, stenoser eller ocklusioner. Ingen dissektion eller aneurysm. Öppets
 | Frågeställning       | Tillstånd           | Kommentar  |
 | ------------- |-------------| ------------- |
 | <b>Stenos?</b>   | - Karotisstenos<br>- Basilarisstenos<br>- Intracerebrala artärer | Stenosgrad i % anger graden av förträngning pga plack/ateroskleros.| 
-| <b>Ocklusion?</b>   | - Trombos (ex. basilaristrombos)<br>- Emboli| Vid misstanke om sinustrombos ska dock [DT venografi](dt-venografi-sinustrombos.md) beställas. | 
-| <b>Plack?</b>   | Ateroskleros |<u>Fynd:</u><br>- Förkalkade plack<br>- Icke-förkalkade plack<br>- Mjukt plack<br>- Emboliserat plack<br>- Kaliberväxling - oftast tecken till ateroskleros| 
-| <b>Dissektion?</b>   | - Vertebralisdissektion<br>- Karotisdissektion | | 
-| <b>Aneurysm?</b>   |  | Dolioektasi = vidgad/förlängt blodkärl, försvagning av kärlväggen| 
-| <b>Kärlanomali?</b>   | AV-missbildning| | 
+| <b>Ocklusion?</b>   | - Trombos<br>- Emboli<br>- Dissektion| Vid misstanke om sinustrombos ska dock [DT venografi](dt-venografi-sinustrombos.md) beställas. | 
+| <b>Plack?</b>   | - Ateroskleros |<u>Fynd:</u><br>- Förkalkade plack<br>- Icke-förkalkade plack<br>- Mjukt plack| 
+| <b>Aneurysm?</b>   |  | Aneurysm är oftast intracerebrala. | 
+| <b>Kärlanomali?</b>   | - AV-missbildning<br>- Arteriovenös fistel| | 
 
 
 <style> 

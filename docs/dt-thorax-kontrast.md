@@ -1,18 +1,13 @@
-# DT thorax med kontrast
+# DT thorax med kontrast i venfas
 
-Undersökning med intravenös kontrast och kan påvisa en rad olika patologier i thorax, alltifrån pneumoni till empyem och malignitet (även lungemboli om efterfrågas). Viktigt att ange lungemboli i frågeställningen om efterfrågas, eftersom det kräver ett speciellt undersökningsprotokoll.
-
+Denna undersökning ger bättre differentiering av mjukdelar, t.ex. mediastinala lymfkörtlar, än DT utan kontrast. Kan kartlägga misstänkta tumörer, abscesser och empyem.
 
 ::: warning Indikation
+Exempel:
 1. Empyem
 2. Abscess
-3. Sarkoidos
-4. Lungmalignitet
-5. Lungemboli
-:::
-
-::: tip Normalfynd
-Inga infiltrat. Ingen pleuravätska. Ingen stas. 
+3. Tumör
+4. Sarkoidos
 :::
 
 

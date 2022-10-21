@@ -1,6 +1,6 @@
 # Ultraljud buk
 
-Ultraljud buk-undersökningar kan indelas i övre del och nedre del samt med eller utan kontrast. Detta avsnitt berör ultraljud buk övre och nedre del. 
+Ultraljud buk-undersökningar kan indelas i övre del och nedre del, samt med eller utan kontrast. Detta avsnitt berör ultraljud buk övre och nedre del. 
 
 ::: info Indelning
 1. <b>UL buk övre del</b> - Övre bukregionen såsom lever, gallblåsa och gallvägar.
@@ -9,12 +9,11 @@ Ultraljud buk-undersökningar kan indelas i övre del och nedre del samt med ell
 :::
 
 ::: warning Indikation
+Exempel:
 1. Gallsten
 2. Kolecystit
 3. Gallvägshinder 
 4. Appendicit (förstahandsval för barn, gravida och smala unga patienter) 
-5. Ascites
-6. Levercirros
 :::
 
 ::: danger OBS!
@@ -22,5 +21,5 @@ Fasta inför ultraljudsundersökning av gallblåsan för att hålla gallblåsan 
 :::
 
 ::: tip Normalfynd
-Inga konkrement i gallblåsan, ingen kolecystit eller gallstas, normalvida gallvägar, inga fokala leverförändringar, normal appendix.
+Ex. Inga konkrement i gallblåsan, ingen kolecystit eller gallstas, normalvida gallvägar, inga fokala leverförändringar, normal appendix.
 :::

@@ -1,6 +1,10 @@
 # Bukundersökningar
 I detta avsnitt finner du några av de vanligaste röntgenbeställningar med fokus på bukorganen. Den vanligaste modaliteten vid bukundersökningar är datortomografi följt av ultraljud. 
 
+Sträva efter enklast möjliga undersökning med lägsta stråldos eller minsta kontrastmängd för att besvara frågeställningen.
+\
+\
+\
 Läs mer om undersökningarna:
 1. [UL buk](ul-buk)
 2. [DT buk utan kontrast](dt-buk)
