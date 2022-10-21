@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as e,d as r}from"./app.05c3c6c6.js";const f=JSON.parse('{"title":"DT buk utan kontrast","description":"","frontmatter":{},"headers":[],"relativePath":"dt-buk.md","lastUpdated":1662734260000}'),n={name:"dt-buk.md"},s=r("",4),i=[s];function l(o,k,d,u,c,_){return e(),a("div",null,i)}const p=t(n,[["render",l]]);export{f as __pageData,p as default};
