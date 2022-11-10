@@ -21,7 +21,7 @@ export default defineConfig({
                 { text: 'DT venografi', link: '/dt-venografi-sinustrombos' },
                 { text: 'DT hjärna med kontrast', link: '/dt-hjarna-kontrast' },
                 { text: 'DT ansiktsskelett', link: '/dt-ansiktsskelett' },
-                { text: 'DT orbita', link: '/dt-orbita' },
+                { text: 'DT orbita utan och med kontrast', link: '/dt-orbita' },
               ],
             },
             {

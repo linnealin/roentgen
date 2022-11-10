@@ -28,7 +28,7 @@ Ex. Inga plack, stenoser eller ocklusioner. Ingen dissektion eller aneurysm. Öp
 ## DT hjärnangiografi
 - Omfattar C2-nivå upp till vertex.
 - Lägst stråldos.
-- Indikation exempelvis aneurysmutredning.
+- Indikation exempelvis utredning av aneurysm eller vaskulit.
 
 
 ## Frågeställningar
@@ -43,9 +43,9 @@ Ex. Inga plack, stenoser eller ocklusioner. Ingen dissektion eller aneurysm. Öp
 
 | Frågeställning       | Tillstånd           | Kommentar  |
 | ------------- |-------------| ------------- |
-| <b>Stenos?</b>   | - Karotisstenos<br>- Basilarisstenos<br>- Intracerebrala artärer | Stenosgrad i % anger graden av förträngning pga plack/ateroskleros.| 
+| <b>Stenos?</b>   | - Stenos i halsartärer<br>- Stenos i intrakraniella artärer| Stenosgrad i % beräknas enbart för arteria carotis interna (ICA) och graderar förträngningen orsakad av plack/ateroskleros.| 
 | <b>Ocklusion?</b>   | - Trombos<br>- Emboli<br>- Dissektion| Vid misstanke om sinustrombos ska dock [DT venografi](dt-venografi-sinustrombos.md) beställas. | 
-| <b>Plack?</b>   | - Ateroskleros |<u>Fynd:</u><br>- Förkalkade plack<br>- Icke-förkalkade plack<br>- Mjukt plack| 
+| <b>Plack?</b>   | - Ateroskleros |<u>Fynd:</u><br>- Förkalkade plack<br>- Icke-förkalkade plack<br>- Ulceröst oregelbundet plack| 
 | <b>Aneurysm?</b>   |  | Aneurysm är oftast intracerebrala. | 
 | <b>Kärlanomali?</b>   | - AV-missbildning<br>- Arteriovenös fistel| | 
 
