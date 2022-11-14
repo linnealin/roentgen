@@ -1,7 +1,7 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress';
 
 export default defineConfig({
-    title: 'Radiologi för AT-läkare',
+    title: 'Röntgenkollen',
     description: 'Just playing around.',
     base: '/roentgen/',
     lastUpdated: true,
