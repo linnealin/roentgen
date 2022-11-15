@@ -1,0 +1,1 @@
+import{_ as n,c as e,o as t,d as a}from"./app.c522a08b.js";const m=JSON.parse('{"title":"Lungr\xF6ntgen","description":"","frontmatter":{},"headers":[],"relativePath":"lungrontgen.md","lastUpdated":1668539668000}'),r={name:"lungrontgen.md"},o=a("",3),l=[o];function s(i,d,g,c,_,u){return t(),e("div",null,l)}const h=n(r,[["render",s]]);export{m as __pageData,h as default};
