@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress';
 
 export default defineConfig({
     title: 'Röntgenkollen',
-    description: 'Just playing around.',
-    base: '/roentgen/',
+    description: '',
+    base: '/rontgenkollen/',
     lastUpdated: true,
     themeConfig: {
         nav: [
