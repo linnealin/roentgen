@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as e,d as r}from"./app.c522a08b.js";const u=JSON.parse('{"title":"DT thorax utan kontrast","description":"","frontmatter":{},"headers":[],"relativePath":"dt-thorax.md","lastUpdated":1668584180000}'),n={name:"dt-thorax.md"},o=r("",3),i=[o];function s(l,d,c,_,p,h){return e(),a("div",null,i)}const x=t(n,[["render",s]]);export{u as __pageData,x as default};
