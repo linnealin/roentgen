@@ -1,1 +1,0 @@
-import{_ as i,c as t,o as n,d as a}from"./app.b6a2824f.js";const _=JSON.parse('{"title":"Lungscintigrafi","description":"","frontmatter":{},"headers":[],"relativePath":"lungscintigrafi.md","lastUpdated":1668704146000}'),e={name:"lungscintigrafi.md"},s=a("",4),r=[s];function o(l,c,d,u,g,p){return n(),t("div",null,r)}const m=i(e,[["render",o]]);export{_ as __pageData,m as default};
