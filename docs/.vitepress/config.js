@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
     title: 'Röntgenkollen',
     description: '',
-    base: '/rontgenkollen/',
+    base: '/roentgen/',
     lastUpdated: true,
     themeConfig: {
         nav: [
