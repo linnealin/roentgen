@@ -1,7 +1,6 @@
-# Här är instruktionerna
+# Instructions:
 
-Starta genom att köra kommandot
-
+Start using command:
 `npm run docs:dev`
 
-Du kan tjuvtitta på kommandona i package.json
+View more in package.json

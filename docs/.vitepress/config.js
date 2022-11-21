@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
     title: 'Röntgenkollen',
     description: '',
-    base: '/roentgen/',
+    base: '/rontgenkollen/',
     lastUpdated: true,
     themeConfig: {
         nav: [
@@ -75,7 +75,7 @@ export default defineConfig({
             },
           ],
         footer: {
-            message: 'hallå',
+            message: '',
             copyright: 'Copyright © 2022 Linnea Lin'
         },
       },
