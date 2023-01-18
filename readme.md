@@ -1,4 +1,4 @@
-# Instructions:
+# Instructions
 
 Start using command:
 `npm run docs:dev`
